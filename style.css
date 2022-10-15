@@ -117,4 +117,5 @@ button:hover{background-color: var(--Pale-Blue);}
     }
     input,button{width: 100%;}
     button{margin-top: 1rem;}
+    #dashboard{width: 100%;}
 }
