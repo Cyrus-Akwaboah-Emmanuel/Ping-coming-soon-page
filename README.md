@@ -1,6 +1,6 @@
-# Frontend Mentor - Easybank landing page solution
+# Frontend Mentor - Ping coming soon page solution
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -10,22 +10,18 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-
 ### Screenshot
-![](./screenshot/Screenshot.png)
-![](./screenshot/Screenshot1.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![](./images/Web.jpeg)
+
+### Links
+
+- Solution URL: [GITHUB](https://github.com/Cyrus-Akwaboah-Emmanuel/Ping-coming-soon-page)
+- Live Site URL: [NETLIFY](https://ping124.netlify.app/)
 
 ## My process
 
@@ -34,7 +30,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- Grid
 
 ## Author
 - Frontend Mentor - [@Cyrus-Akwaboah-Emmanuel](https://www.frontendmentor.io/profile/Cyrus-Akwaboah-Emmanuel)
